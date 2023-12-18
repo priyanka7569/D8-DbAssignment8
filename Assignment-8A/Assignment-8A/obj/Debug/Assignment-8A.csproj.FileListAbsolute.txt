@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\bin\Debug\Assignment-8A.exe.config
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\bin\Debug\Assignment-8A.exe
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\bin\Debug\Assignment-8A.pdb
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\obj\Debug\Assignment-8A.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\obj\Debug\Assignment-8A.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\obj\Debug\Assignment-8A.exe
+C:\Users\kotap\OneDrive\Desktop\Phase3 Assignments\Assignment 8\Assignment-8A\Assignment-8A\obj\Debug\Assignment-8A.pdb
